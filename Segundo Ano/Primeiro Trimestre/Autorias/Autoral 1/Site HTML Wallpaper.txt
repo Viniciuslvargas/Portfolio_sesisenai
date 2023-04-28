@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <style>
+        body {
+            background-color: cadetblue;
+        }
+
+        img {
+            width: 20%;
+            height: 30%;
+        }
+
+        .geral {
+            text-align: center;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="geral">
+        <h1>Site de Wallpapers para celular!</h1>
+        
+          <img src="https://wallpaper4k.com.br/wp-content/uploads/2022/11/wallpapers-do-super-mario-em-4k-para-pc-e-celular-41-576x1024.png" alt="Wallpaper Mario">
+        <h2>Wallpaper4k Mario</h2>
+        <img src="https://i.pinimg.com/originals/8e/8d/49/8e8d490daacb0730f1ee51e69dd40008.jpg" alt="dadadad">
+        <h2>Wallpaper4k Avengenrs</h2>
+        <img src="https://pbs.twimg.com/media/ClwhQH_WMAAdCnB.jpg" alt="daaffa">
+        <h2>Wallpaper4k Flash</h2>
+        <img src="https://i.pinimg.com/originals/37/dc/79/37dc79099bed6c17840547e2623907b4.webp" alt="ney">
+        <h2>Wallpaper4k Neymar</h2>
+        <img src="https://image.winudf.com/v2/image1/Y29tLndhbGxwYXBlcnMubWhjbm4uQ2Fyc19zY3JlZW5fMF8xNTgxMTQ1MTcxXzA5NA/screen-0.jpg?fakeurl=1&type=.webp" alt="afsfgasf">
+        <h2>Wallpaper4k Carro</h2>
+
+     <div class="geral">
+</body>
+</html>
+<script>
+  
+
+</script>
